@@ -1,0 +1,12 @@
+    命令行git 操作
+First: 在github网站穿件代码仓库
+
+Second:复制clone地址-> git clone xxxxxx.git
+
+Third:将要上传的的代码移动到down下来的本地目录下
+
+Fourth:将文件添加到git上面-> git add.
+
+Fifth:添加提交注释-> git commit -m "注释"
+
+Sixth:将代码提交到远程版本控制库 -> git push origin master
